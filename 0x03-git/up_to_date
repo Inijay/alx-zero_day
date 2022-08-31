@@ -1,0 +1,17 @@
+This are the commands used 
+git add .
+git commit -m
+git push
+git pull
+git branch
+git branch -c
+git checkout
+git status
+cd
+ls
+touch
+echo
+cat
+rm
+mkdir
+rmdir
